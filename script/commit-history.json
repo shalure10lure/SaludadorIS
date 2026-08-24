@@ -1,17 +1,36 @@
 [
   {
-    "sha": "HEAD",
+    "sha": "2b11ba4dbadb26aab0126747c0ab909506dd28c8",
     "author": "shalure10lure",
     "commit": {
       "date": "2026-08-20T14:26:38.000Z",
       "message": "feat:añadiendo primera funcionalidad saludar con hola",
-      "url": "https://github.com/shalure10lure/SaludadorIS/commit/HEAD"
+      "url": "https://github.com/shalure10lure/SaludadorIS/commit/2b11ba4dbadb26aab0126747c0ab909506dd28c8"
     },
     "stats": {
       "total": 11,
       "additions": 2,
       "deletions": 9,
       "date": "2026-08-20"
+    },
+    "coverage": 100,
+    "test_count": 1,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "shalure10lure",
+    "commit": {
+      "date": "2026-08-24T10:38:19.000Z",
+      "message": "feat:añadiendo funcionalidad saludar por nombre",
+      "url": "https://github.com/shalure10lure/SaludadorIS/commit/HEAD"
+    },
+    "stats": {
+      "total": 28,
+      "additions": 18,
+      "deletions": 10,
+      "date": "2026-08-24"
     },
     "coverage": 100,
     "test_count": 1,
