@@ -57,16 +57,35 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "df4690f09a3fcb8d65de426ed7f50c8798bed914",
     "author": "shalure10lure",
     "commit": {
       "date": "2026-08-25T02:11:44.000Z",
       "message": "feat: implementar saludo por genero",
-      "url": "https://github.com/shalure10lure/SaludadorIS/commit/HEAD"
+      "url": "https://github.com/shalure10lure/SaludadorIS/commit/df4690f09a3fcb8d65de426ed7f50c8798bed914"
     },
     "stats": {
       "total": 39,
       "additions": 32,
+      "deletions": 7,
+      "date": "2026-08-25"
+    },
+    "coverage": 100,
+    "test_count": 1,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "shalure10lure",
+    "commit": {
+      "date": "2026-08-25T02:18:31.000Z",
+      "message": "feat: implementar saludo por edad",
+      "url": "https://github.com/shalure10lure/SaludadorIS/commit/HEAD"
+    },
+    "stats": {
+      "total": 30,
+      "additions": 23,
       "deletions": 7,
       "date": "2026-08-25"
     },
