@@ -38,9 +38,15 @@
     "testId": 4
   },
   {
-    "commitId": "HEAD",
+    "commitId": "8d300d763604d324c110887eab10a31f1939e693",
     "commitName": "feat: implementar saludo en espaniol",
     "commitTimestamp": 1787624766043,
     "testId": 5
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: implementar saludo en ingles",
+    "commitTimestamp": 1787624955401,
+    "testId": 6
   }
 ]

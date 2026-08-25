@@ -26,6 +26,28 @@ function saludar(nombre, genero, edad, idioma) {
         generoSaludo = "Señorita";
       }
     }
+  }else if (idioma === "en") {
+    if (horaActual < 12) {
+      saludo = "Good morning";
+    } else if (horaActual < 19) {
+      saludo = "Good afternoon";
+    } else {
+      saludo = "Good evening";
+    }
+
+    if(edad> 30){
+      if (genero === "masculino") {
+        generoSaludo = "Mr.";
+      } else {
+        generoSaludo = "Mrs.";
+      }
+    }else{
+      if (genero === "masculino") {
+        generoSaludo = "Young man";
+      }else{
+        generoSaludo = "Miss";
+      }
+    }
   }
 
   return `${saludo}, ${generoSaludo} ${nombre}!`;
