@@ -32,9 +32,15 @@
     "testId": 3
   },
   {
-    "commitId": "HEAD",
+    "commitId": "92fbdb4eb04bf2632e4ccad1b6e48cc91292d4dc",
     "commitName": "feat: implementar saludo por edad",
     "commitTimestamp": 1787624313825,
     "testId": 4
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: implementar saludo en espaniol",
+    "commitTimestamp": 1787624766043,
+    "testId": 5
   }
 ]

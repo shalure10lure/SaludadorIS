@@ -76,17 +76,36 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "92fbdb4eb04bf2632e4ccad1b6e48cc91292d4dc",
     "author": "shalure10lure",
     "commit": {
       "date": "2026-08-25T02:18:31.000Z",
       "message": "feat: implementar saludo por edad",
-      "url": "https://github.com/shalure10lure/SaludadorIS/commit/HEAD"
+      "url": "https://github.com/shalure10lure/SaludadorIS/commit/92fbdb4eb04bf2632e4ccad1b6e48cc91292d4dc"
     },
     "stats": {
       "total": 30,
       "additions": 23,
       "deletions": 7,
+      "date": "2026-08-25"
+    },
+    "coverage": 100,
+    "test_count": 1,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "shalure10lure",
+    "commit": {
+      "date": "2026-08-25T02:26:04.000Z",
+      "message": "feat: implementar saludo en espaniol",
+      "url": "https://github.com/shalure10lure/SaludadorIS/commit/HEAD"
+    },
+    "stats": {
+      "total": 47,
+      "additions": 29,
+      "deletions": 18,
       "date": "2026-08-25"
     },
     "coverage": 100,
