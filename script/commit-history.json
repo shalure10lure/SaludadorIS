@@ -38,17 +38,36 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "07b1e28175b2da3145caecf1289731d6440e8378",
     "author": "shalure10lure",
     "commit": {
       "date": "2026-08-25T02:04:24.000Z",
       "message": "feat: implementar saludo segun la hora",
-      "url": "https://github.com/shalure10lure/SaludadorIS/commit/HEAD"
+      "url": "https://github.com/shalure10lure/SaludadorIS/commit/07b1e28175b2da3145caecf1289731d6440e8378"
     },
     "stats": {
       "total": 11,
       "additions": 10,
       "deletions": 1,
+      "date": "2026-08-25"
+    },
+    "coverage": 100,
+    "test_count": 1,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "shalure10lure",
+    "commit": {
+      "date": "2026-08-25T02:11:44.000Z",
+      "message": "feat: implementar saludo por genero",
+      "url": "https://github.com/shalure10lure/SaludadorIS/commit/HEAD"
+    },
+    "stats": {
+      "total": 39,
+      "additions": 32,
+      "deletions": 7,
       "date": "2026-08-25"
     },
     "coverage": 100,

@@ -20,9 +20,15 @@
     "testId": 1
   },
   {
-    "commitId": "HEAD",
+    "commitId": "07b1e28175b2da3145caecf1289731d6440e8378",
     "commitName": "feat: implementar saludo segun la hora",
     "commitTimestamp": 1787623466762,
     "testId": 2
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: implementar saludo por genero",
+    "commitTimestamp": 1787623906163,
+    "testId": 3
   }
 ]
