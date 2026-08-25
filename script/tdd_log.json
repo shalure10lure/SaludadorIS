@@ -50,9 +50,15 @@
     "testId": 6
   },
   {
-    "commitId": "HEAD",
+    "commitId": "5f72bfbd70e2950189fc2bc3ddc3bcedbb979ae4",
     "commitName": "feat:Aniadiendo saludo sin nombre",
     "commitTimestamp": 1787663694881,
     "testId": 7
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat:aniadiendo mensaje de error al poner edad invalida",
+    "commitTimestamp": 1787664482062,
+    "testId": 8
   }
 ]

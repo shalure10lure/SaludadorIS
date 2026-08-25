@@ -16,6 +16,9 @@ function saludar(nombre, genero, edad, idioma) {
       saludo = "Buenas noches";
     }
 
+    if(edad<0 ||edad>150 ||edad=="" || isNaN(edad )){
+      return "Edad inválida";
+    }
     if(edad> 30){
       if (genero === "masculino") {
         generoSaludo = "Sr.";
@@ -41,6 +44,9 @@ function saludar(nombre, genero, edad, idioma) {
       saludo = "Good evening";
     }
 
+    if(edad<0 ||edad>150 ||edad=="" || isNaN(edad )){
+      return "Year invalid";
+    }
     if(edad> 30){
       if (genero === "masculino") {
         generoSaludo = "Mr.";

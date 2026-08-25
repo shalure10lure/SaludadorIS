@@ -133,11 +133,30 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "5f72bfbd70e2950189fc2bc3ddc3bcedbb979ae4",
     "author": "shalure10lure",
     "commit": {
       "date": "2026-08-25T13:14:52.000Z",
       "message": "feat:Aniadiendo saludo sin nombre",
+      "url": "https://github.com/shalure10lure/SaludadorIS/commit/5f72bfbd70e2950189fc2bc3ddc3bcedbb979ae4"
+    },
+    "stats": {
+      "total": 6,
+      "additions": 6,
+      "deletions": 0,
+      "date": "2026-08-25"
+    },
+    "coverage": 100,
+    "test_count": 1,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "shalure10lure",
+    "commit": {
+      "date": "2026-08-25T13:28:00.000Z",
+      "message": "feat:aniadiendo mensaje de error al poner edad invalida",
       "url": "https://github.com/shalure10lure/SaludadorIS/commit/HEAD"
     },
     "stats": {
