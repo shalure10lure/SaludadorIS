@@ -5,6 +5,9 @@ function saludar(nombre, genero, edad, idioma) {
   let generoSaludo = "";
 
   if (idioma === "es") {
+    if(nombre === ""){
+      nombre = "visitante";
+    }
     if (horaActual < 12) {
       saludo = "Buenos días";
     } else if (horaActual < 19) {
@@ -27,6 +30,9 @@ function saludar(nombre, genero, edad, idioma) {
       }
     }
   }else if (idioma === "en") {
+    if(nombre === ""){
+      nombre = "visitor";
+    }
     if (horaActual < 12) {
       saludo = "Good morning";
     } else if (horaActual < 19) {

@@ -114,16 +114,35 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "8f677cb3d648594a752fafc20f3072bc764a6ccd",
     "author": "shalure10lure",
     "commit": {
       "date": "2026-08-25T02:29:13.000Z",
       "message": "feat: implementar saludo en ingles",
-      "url": "https://github.com/shalure10lure/SaludadorIS/commit/HEAD"
+      "url": "https://github.com/shalure10lure/SaludadorIS/commit/8f677cb3d648594a752fafc20f3072bc764a6ccd"
     },
     "stats": {
       "total": 23,
       "additions": 23,
+      "deletions": 0,
+      "date": "2026-08-25"
+    },
+    "coverage": 100,
+    "test_count": 1,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "shalure10lure",
+    "commit": {
+      "date": "2026-08-25T13:14:52.000Z",
+      "message": "feat:Aniadiendo saludo sin nombre",
+      "url": "https://github.com/shalure10lure/SaludadorIS/commit/HEAD"
+    },
+    "stats": {
+      "total": 6,
+      "additions": 6,
       "deletions": 0,
       "date": "2026-08-25"
     },
