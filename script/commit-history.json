@@ -19,18 +19,37 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "4fcc9a70fc6778a4283a1d6bc0148d94d704cec9",
     "author": "shalure10lure",
     "commit": {
       "date": "2026-08-24T10:38:19.000Z",
       "message": "feat:añadiendo funcionalidad saludar por nombre",
-      "url": "https://github.com/shalure10lure/SaludadorIS/commit/HEAD"
+      "url": "https://github.com/shalure10lure/SaludadorIS/commit/4fcc9a70fc6778a4283a1d6bc0148d94d704cec9"
     },
     "stats": {
       "total": 28,
       "additions": 18,
       "deletions": 10,
       "date": "2026-08-24"
+    },
+    "coverage": 100,
+    "test_count": 1,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "shalure10lure",
+    "commit": {
+      "date": "2026-08-25T02:04:24.000Z",
+      "message": "feat: implementar saludo segun la hora",
+      "url": "https://github.com/shalure10lure/SaludadorIS/commit/HEAD"
+    },
+    "stats": {
+      "total": 11,
+      "additions": 10,
+      "deletions": 1,
+      "date": "2026-08-25"
     },
     "coverage": 100,
     "test_count": 1,
