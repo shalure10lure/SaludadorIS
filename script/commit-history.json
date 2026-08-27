@@ -152,12 +152,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "a35c79a83de818b63ed2e0293a2542446e9bad58",
     "author": "shalure10lure",
     "commit": {
       "date": "2026-08-25T13:28:00.000Z",
       "message": "feat:aniadiendo mensaje de error al poner edad invalida",
-      "url": "https://github.com/shalure10lure/SaludadorIS/commit/HEAD"
+      "url": "https://github.com/shalure10lure/SaludadorIS/commit/a35c79a83de818b63ed2e0293a2542446e9bad58"
     },
     "stats": {
       "total": 6,
@@ -167,6 +167,25 @@
     },
     "coverage": 100,
     "test_count": 1,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "shalure10lure",
+    "commit": {
+      "date": "2026-08-27T13:13:02.000Z",
+      "message": "feat:añadiendo test de dividir y logica con tdd",
+      "url": "https://github.com/shalure10lure/SaludadorIS/commit/HEAD"
+    },
+    "stats": {
+      "total": 29,
+      "additions": 28,
+      "deletions": 1,
+      "date": "2026-08-27"
+    },
+    "coverage": 55,
+    "test_count": 4,
     "failed_tests": 0,
     "conclusion": "success"
   }
